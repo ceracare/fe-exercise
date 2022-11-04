@@ -10,14 +10,6 @@ For this assignment, write a React web application that will handle the followin
 - As a user I want to see the current time and have it updating in real time
 
 ## Specifics
-
-Build your application according to the following design: https://www.figma.com/file/3J87foE1c4LM1poiezyfDW/Cera-FE-Assignment?node-id=0%3A1
-
-- Fetch the carers, using the following REST endpoint: https://ceracare.github.io/carers.json
-- Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/availableSlots.json
-- To schedule a carer on a specific time slot, call the following REST endpoint: https://ceracare.github.io/bookSlot.json
-
-## Specifics
 Build your application according to the following designs 
 
 ![Carer Page](designs/carer-page.png)
