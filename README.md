@@ -15,9 +15,9 @@ Build your application according to the following designs
 ![Carer Page](designs/carer-page.png)
 ![Schedule a carer](designs/schedule-a-carer.png)
 
-- Fetch the carers, using the following REST endpoint: https://ceracare.github.io/carers.json
-- Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/availableSlots.json
-- To schedule a carer on a specific time slot, call the following REST endpoint: https://ceracare.github.io/bookSlot.json
+- Fetch the carers, using the following REST endpoint: https://ceracare.github.io/fe-exercise/carers.json
+- Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/fe-exercise/availableSlots.json
+- To schedule a carer on a specific time slot, call the following REST endpoint: https://ceracare.github.io/fe-exercise/bookSlot.json
 
 
 ## How to submit
