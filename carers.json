@@ -1,0 +1,44 @@
+{
+  "carers": [
+    {
+      "name": "Joan",
+      "slots": 4,
+      "photo": "https://ceracare.github.io/assets/joan.jpg"
+    },
+    {
+      "name": "Jon",
+      "slots": 10,
+      "photo": "https://ceracare.github.io/assets/jon.jpg"
+    },
+    {
+      "name": "Richard",
+      "slots": 6,
+      "photo": "https://ceracare.github.io/assets/richard.jpg"
+    },
+    {
+      "name": "Marie",
+      "slots": 1,
+      "photo": "https://ceracare.github.io/assets/marie.jpg"
+    },
+    {
+      "name": "Beth",
+      "slots": 12,
+      "photo": "https://ceracare.github.io/assets/beth.jpg"
+    },
+    {
+      "name": "Dan",
+      "slots": 0,
+      "photo": "https://ceracare.github.io/assets/dan.jpg"
+    },
+    {
+      "name": "Ariel",
+      "slots": 14,
+      "photo": "https://ceracare.github.io/assets/ariel.jpg"
+    },
+    {
+      "name": "Kara",
+      "slots": 9,
+      "photo": "https://ceracare.github.io/assets/kara.jpg"
+    }
+  ]
+}
