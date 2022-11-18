@@ -6,8 +6,7 @@ For this assignment, write a React web application that will handle the followin
 ## User Scenarios
 
 - As a user I want to see all carers available with their current available slots
-- As a user I want to check the carer availabilty and be able to schedule a slot.
-- As a user I want to see the current time and have it updating in real time
+- As a user I want to check the carer availabilty
 
 ## Specifics
 Build your application according to the following designs 
@@ -17,12 +16,11 @@ Build your application according to the following designs
 
 - Fetch the carers, using the following REST endpoint: https://ceracare.github.io/fe-exercise/carers.json
 - Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/fe-exercise/availableSlots.json
-- To schedule a carer on a specific time slot, call the following REST endpoint: https://ceracare.github.io/fe-exercise/bookSlot.json
 
 
 ## How to submit
 - Share your assignment by sending to us the link to your repository.
-- Spend a maximum of 12 hours on this assignment. If you feel like there is something missing, just describe what you would've done in your README file. Write your code as if it were production code.
+- Spend a MAXIMUM of 12 hours on this assignment. If you feel like there is something missing, just describe what you would've done in your README file. Write your code as if it were production code.
 
 Note: Feel free to add any extra design choices or packages to help you in development. If so make sure it's documented
 
