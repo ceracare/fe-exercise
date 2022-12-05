@@ -1,41 +1,49 @@
 {
   "carers": [
     {
+      "id": 1,
       "name": "Joan",
       "slots": 4,
       "photo": "https://ceracare.github.io/fe-exercise/assets/joan.jpg"
     },
     {
+      "id": 2,
       "name": "Jon",
       "slots": 10,
       "photo": "https://ceracare.github.io/fe-exercise/assets/jon.jpg"
     },
     {
+      "id": 3,
       "name": "Richard",
       "slots": 6,
       "photo": "https://ceracare.github.io/fe-exercise/assets/richard.jpg"
     },
     {
+      "id": 4,
       "name": "Marie",
       "slots": 1,
       "photo": "https://ceracare.github.io/fe-exercise/assets/marie.jpg"
     },
     {
+      "id": 5,
       "name": "Beth",
       "slots": 12,
       "photo": "https://ceracare.github.io/fe-exercise/assets/beth.jpg"
     },
     {
+      "id": 6,
       "name": "Dan",
       "slots": 0,
       "photo": "https://ceracare.github.io/fe-exercise/assets/dan.jpg"
     },
     {
+      "id": 7,
       "name": "Ariel",
       "slots": 14,
       "photo": "https://ceracare.github.io/fe-exercise/assets/ariel.jpg"
     },
     {
+      "id": 8,
       "name": "Kara",
       "slots": 9,
       "photo": "https://ceracare.github.io/fe-exercise/assets/kara.jpg"

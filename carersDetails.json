@@ -1,0 +1,44 @@
+{
+    "carers": [
+      {
+        "id": 1,
+        "phoneNumber": "817-748-3735",
+        "address": "250 Oakway Lane"
+      },
+      {
+        "id": 2,
+        "phoneNumber": "408-505-4761",
+        "address": "2054 Rhode Island Avenue"
+      },
+      {
+        "id": 3,
+        "phoneNumber": "217-856-8697",
+        "address": "636 Hornor Avenue"
+      },
+      {
+        "id": 4,
+        "phoneNumber": "217-856-8888",
+        "address": "3191 Atha Drive"
+      },
+      {
+        "id": 5,
+        "phoneNumber": "217-856-6697",
+        "address": "4721 Caldwell Road"
+      },
+      {
+        "id": 6,
+        "phoneNumber": "217-856-5597",
+        "address": "2704 Derek Drive"
+      },
+      {
+        "id": 7,
+        "phoneNumber": "217-856-8097",
+        "address": "4560 Crosswind Drive"
+      },
+      {
+        "id": 8,
+        "phoneNumber": "217-856-8692",
+        "address": "4792 Old Dear Lane"
+      }
+    ]
+  }
