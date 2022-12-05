@@ -17,7 +17,7 @@ Build your application according to the following design
 
 ## How to submit
 - Share your assignment by sending to us the link to your repository.
-- Spend a MAXIMUM of 4 hours on this assignment. If you feel like there is something missing, just describe what you would've done in your README file. Write your code as if it were production code.
+- Spend a up to 4 hours on this assignment. If you feel like there is something missing, just describe what you would've done in your README file. Write your code as if it were production code.
 
 Note: Feel free to add any extra design choices or packages to help you in development. If so make sure it's documented
 
