@@ -1,9 +1,9 @@
 # Carer Management
 
 Cera needs an internal system to handle their carers availabilty.
-For this assignment, write a React web application that will handle the following user scenarios.
+For this assignment, write a React web application that will handle the following user scenario.
 
-## User Scenarios
+## User Scenario
 
 - As a user I want to see all carers available with their current available slots
 
